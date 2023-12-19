@@ -1,6 +1,6 @@
 import re
 
-lines = open('day_1_data.txt', 'r').readlines()
+lines = open('data.txt', 'r').readlines()
 
 def first_part():
     numbers = []
